@@ -64,7 +64,26 @@ Contributions to this project are welcome! If you have any suggestions or find a
 
 Sample ScreenShots
 
+![image](https://github.com/user-attachments/assets/520d7603-8644-405a-a6d5-8bc3bda13d55)
 
 ![image](https://github.com/user-attachments/assets/d160d7f9-1796-4fb1-85b1-a06ec7ef2f96)
+
+
+![image](https://github.com/user-attachments/assets/14ca45d4-fe7e-4449-99ea-573595494e50)
+
+![image](https://github.com/user-attachments/assets/4ba3c14b-88a3-4f27-9f39-e40f0b611b05)
+
+
+![image](https://github.com/user-attachments/assets/6db421cf-3b99-4121-aca3-12791ec5fd7b)
+
+
+![image](https://github.com/user-attachments/assets/7585dd60-a585-4117-8523-f8de66abdfd6)
+
+
+![image](https://github.com/user-attachments/assets/3434cf91-307e-4267-8637-e0ebbe72361e)
+
+
+
+
 
 
