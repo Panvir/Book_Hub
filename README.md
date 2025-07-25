@@ -94,6 +94,13 @@ Sample ScreenShots
 
 ![image](https://github.com/user-attachments/assets/3434cf91-307e-4267-8637-e0ebbe72361e)
 
+## Output Reports:
+
+<img width="1317" height="725" alt="image" src="https://github.com/user-attachments/assets/04630bb3-7bfb-4b6c-925d-352383f86623" />
+<img width="1323" height="612" alt="image" src="https://github.com/user-attachments/assets/f301b94a-9eca-448a-8bde-e105ad716f5c" />
+<img width="1299" height="459" alt="image" src="https://github.com/user-attachments/assets/cb69e802-423b-4fd0-b29b-95a638ac0dd8" />
+
+
 
 
 
