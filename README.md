@@ -6,7 +6,19 @@
 
 ## Overview
 
+Tech Stack: React.js, Tailwind CSS, MongoDB, TestNG, Selenium
+
 This project is a simple online bookstore web application developed using React.js and Tailwind CSS for the frontend, with MongoDB serving as the database for storing user information such as names, emails, and passwords. The application allows users to browse and purchase books. However, it is still under development and does not yet include all the features typically found in a complete online shopping platform.
+
+Designed and developed a dynamic online book store application using React.js, featuring a modern and responsive UI to enhance the shopping experience.
+
+Utilized React's component-based architecture to build reusable and maintainable components, enabling efficient development and easy updates.
+
+Implemented key features like search and recommendation, cart management, and secure payment flow to simulate a real-world e-commerce experience.
+
+Integrated TestNG and Selenium to perform automated testing of major functionalities including placing orders, adding items to cart, and navigating across pages.
+
+Project was primarily aimed at demonstrating end-to-end test automation, rather than full-scale production functionality.
 
 ## Features
 
